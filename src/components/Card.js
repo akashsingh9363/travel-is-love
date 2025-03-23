@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 
-function Card({id,image,info,price,name , removeTour}){
+function Card({id,image,info,price,name,removeTour}){
 
     const [readmore, setReadmore]=useState(false);
 

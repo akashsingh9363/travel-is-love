@@ -46,7 +46,7 @@ const data=[
         name:"Darjeeling",
         info:"Darjeeling is situated on a long, narrow mountain ridge of the Sikkim Himalayas that descends abruptly to the bed of the Great Rangit River. On a clear day the city affords a magnificent view of Kanchenjunga (28,169 feet [8,586 metres]), and Mount Everest can be seen from a nearby viewing point.",
         image:"darjeeling.jpeg",
-        price:"42,936 ",
+        price:"42,936",
     },
     {
         id:8,
